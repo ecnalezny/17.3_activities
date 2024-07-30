@@ -1,0 +1,36 @@
+body{
+    background-color: grey;
+    padding: 0px;
+    margin: 0px;
+}
+.nav{
+   background-color: chartreuse;
+}
+.nav-item{
+    display: inline-block;
+    padding: 15px;
+    background-color:purple
+}
+.pet-info{
+    width: 29%;
+    background-color: blue;
+height: 500px;
+float: left; 
+}
+.pet-details{
+    width: 70%;
+    background-color: darkcyan;
+    height: 500px;
+    float: left;
+color: yellowgreen;
+
+}
+.pet-name{
+    text-align: center;
+    color: white;
+
+}
+.pet-stats{
+    color: white
+
+}
