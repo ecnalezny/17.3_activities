@@ -1,4 +1,6 @@
 .block_element {
+  margin: 0 auto;
+  text-align: center;
   width: 355px;
   background-color: lightblue;
   padding: 35px;
